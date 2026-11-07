@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "longfin.aternos.host",
+    "ip": "bichir.aternos.host",
     "port": 14853,
     "version": "1.20.1",
     "try-creative": false
