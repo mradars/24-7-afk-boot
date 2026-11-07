@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ling.aternos.host",
+    "ip": "handfish.aternos.host",
     "port": 14853,
     "version": "1.20.1",
     "try-creative": false
